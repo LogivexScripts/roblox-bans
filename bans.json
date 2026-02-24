@@ -3,10 +3,12 @@
     "idklxgic": {
       "username": "IdkLxgic",
       "reason": "e",
-      "active": true,
+      "active": false,
       "banned_by": "idklxgic.",
       "banned_at": "2026-02-24T03:25:20.396332",
-      "duration_hours": 1
+      "duration_hours": 1,
+      "unbanned_by": "idklxgic.",
+      "unbanned_at": "2026-02-24T03:31:09.503418"
     }
   }
 }
