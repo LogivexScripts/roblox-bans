@@ -2,13 +2,11 @@
   "bans": {
     "idklxgic": {
       "username": "IdkLxgic",
-      "reason": "d",
-      "active": false,
+      "reason": "e",
+      "active": true,
       "banned_by": "idklxgic.",
-      "banned_at": "2026-02-24T03:23:42.210753",
-      "duration_hours": 0,
-      "unbanned_by": "idklxgic.",
-      "unbanned_at": "2026-02-24T03:25:01.153186"
+      "banned_at": "2026-02-24T03:25:20.396332",
+      "duration_hours": 1
     }
   }
 }
